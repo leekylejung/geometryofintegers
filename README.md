@@ -5,4 +5,4 @@ In essense, the first algorithm (intwordmetric) relies on a property of the word
 
 The second (heiswordmetric) builds on work by Sebastien Blachere on the 3x3 Heisenberg matrix. In essense, it is shown that the 4x4 matrix is isomorphic to two copies of the 3x3 matrix, and we build on Blachere's 3x3 algorithm to analytically compute the 4x4 algorithm. 
 
-Please view 'writeup.pdf' for more details.
+Please view 'writeup.pdf' for more details. Special thanks to Dr. Yanlong Hao for his continued support!
