@@ -1,4 +1,6 @@
 # Introduction
+The study of groups through the investigation of the geometric structures that they create often leads to insightful and applicable results. We take an geometric group theoretic approach towards investigating the large scale structure of the set Z of integers and of the set H(4) of 4x4 Heisenberg matrices.
+
 This repository contains two algorithms (intwordmetric and heiswordmetric) which calculate word-metrics for the integer group and for the heisenberg group of 4x4 matrices, respectively. The code was developed in collaboration with a research group at the University of Michigan, and I have attatched our write-up with citations to this repo.
 
 # intwordmetric
