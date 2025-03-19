@@ -55,5 +55,3 @@ def calcHeisenburg(x1, y1, x2, y2, z):
     best_solution = min(best_solution, f1 + f2)
   # Returns our best solution if z is a valid heisenberg matrix. Otherwise it returns -1, representing an error
   return best_solution if z >= 0 else -1
-
-print(calcHeisenburg(1, 1, 1, 1, 8))
